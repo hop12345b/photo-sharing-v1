@@ -1,0 +1,15 @@
+.userlist-container {
+  background-color: #fafafa;
+  border-right: 1px solid #ddd;
+  height: 100%;
+  overflow-y: auto;
+  padding: 8px 0;
+}
+
+.MuiListItemButton-root.Mui-selected {
+  background-color: #e3f2fd !important;
+}
+
+.MuiListItemText-primary {
+  font-weight: 500;
+}

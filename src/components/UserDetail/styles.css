@@ -1,0 +1,18 @@
+.userdetail-container {
+  padding: 10px;
+}
+
+.userdetail-card {
+  padding: 16px;
+  max-width: 600px;
+  background-color: #fff;
+}
+
+.userdetail-card h5 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.MuiButton-contained {
+  text-transform: none;
+}

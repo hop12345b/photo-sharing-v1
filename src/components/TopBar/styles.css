@@ -1,0 +1,15 @@
+.topbar-appbar {
+  background-color: #1976d2;
+  color: white;
+  box-shadow: none;
+}
+
+.topbar-left {
+  font-weight: bold;
+  letter-spacing: 0.4px;
+}
+
+.topbar-right {
+  opacity: 0.9;
+  font-size: 1rem;
+}
